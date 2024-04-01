@@ -1,19 +1,6 @@
 <div align="center">
-  Hi there~ 👋 This is an ordinary student struggling in cs
+  This is an ordinary student struggling in cs
 </div>
-
-
-
-## ☘️ Currently Learning
-- Computer architecture 👾
-- Competitive programming 🚀
-
-
-## 👻 Interested About
-- Game theory
-- Statistical mechanics
-- Snowboarding
-
 
 ## Languages
 
