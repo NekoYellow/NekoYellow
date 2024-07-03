@@ -1,8 +1,12 @@
 <div align="center">
-  This is an ordinary student struggling in cs
+  An ordinary student struggling in cs
 </div>
 
-## Languages
+### About me
+
+Software Engineering, Class of 2026 @ Fudan University
+
+### Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
