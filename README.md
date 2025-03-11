@@ -6,7 +6,7 @@
 
 Software Engineering, Class of 2026 @ Fudan University
 
-### Stack
+### Technologies
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
