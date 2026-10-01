@@ -8,7 +8,7 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2560&amp;pause=1280&amp;color=7DD3FC&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=50&amp;lines=MLSys+for+enabling+real-time+simulation;AI4Science+for+bringing+intelligence+to+physical+systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2560&amp;pause=1280&amp;color=7DD3FC&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=MLSys+for+enabling+real-time+simulation;AI4Science+for+bringing+intelligence+to+physical+systems"
     alt="Captions."
     width="640"
   />
